@@ -1,3 +1,4 @@
 // this is a placeholder
 new file
-blah blah blah
+
+code goes here
